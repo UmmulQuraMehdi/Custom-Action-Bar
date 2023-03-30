@@ -1,2 +1,2 @@
 # Custom-Action-Bar
-This project is an simple custom action bar.
+This project demonstrates how to implement a custom action bar and create round images in Android Studio.
